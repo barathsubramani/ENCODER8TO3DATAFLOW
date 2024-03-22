@@ -67,5 +67,8 @@ endmodule
 
 
 **RESULTS**
+
+
+
 Thus, Encoder 8 To 3 in Dataflow Modelling is implemented using verilog and their functionality using their functional tables have been validated.
 
